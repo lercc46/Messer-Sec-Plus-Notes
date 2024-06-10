@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "55321ea6f20dc6be",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d47587368038502",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "776e8f15244faefb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "92301b53b19797ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "81f87d544bf4a8fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4700b51513878b27",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a760bf50ad187a91",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2569092b7367709d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0f302eaf9154fc9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f320dc2bd3b00623",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12bb782b6d7eb824",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "524ee9988361d99b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5bc538002f23ad2a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3cc595872e3ef395",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "776e8f15244faefb",
+  "lastOpenFiles": [
+    "sec-plus-messer-notes",
+    "1.0 General Security Concepts/1.1 Security Controls.md",
+    "1.0 General Security Concepts/1.4 Cryptographic Solutions.md",
+    "1.0 General Security Concepts/1.3 Change Management Processes.md",
+    "1.0 General Security Concepts/1.2 Fundamental Security Concepts.md",
+    "README.md",
+    "How to Pass Your SY0-701 Security+ Exam.md",
+    "introduction video notes.md",
+    "Resources/domains.png",
+    "5.0 Security Program Management and Oversight/5.6 Security Awareness.md",
+    "5.0 Security Program Management and Oversight/5.5 Audits and Assessments.md",
+    "5.0 Security Program Management and Oversight/5.4 Compliance.md",
+    "5.0 Security Program Management and Oversight/5.3 Third-Party Security Vendors.md",
+    "5.0 Security Program Management and Oversight/5.2 Risk Management.md",
+    "5.0 Security Program Management and Oversight/5.1 Governance.md",
+    "4.0 Security Operations/4.9 Investigation.md",
+    "4.0 Security Operations/4.8 Incident Response.md",
+    "4.0 Security Operations/4.7 Automation.md",
+    "4.0 Security Operations/4.6 Identity and Access Management.md",
+    "4.0 Security Operations/4.5 Enterprise Security.md",
+    "4.0 Security Operations/4.4 Monitoring.md",
+    "4.0 Security Operations/4.3 Vulnerability Management.md",
+    "4.0 Security Operations/4.2 Asset Management.md",
+    "4.0 Security Operations/4.1 Security Techniques.md",
+    "3.0 Security Architecture/3.4 Resilience and Recovery.md",
+    "3.0 Security Architecture/3.1 Architecture Models.md",
+    "3.0 Security Architecture/3.2 Infrastructure Security Principles.md",
+    "Resources",
+    "5.0 Security Program Management and Oversight",
+    "4.0 Security Operations",
+    "3.0 Security Architecture",
+    "2.0 Threats, Vulnerabilities, and Mitigations",
+    "1.0 General Security Concepts"
+  ]
+}
