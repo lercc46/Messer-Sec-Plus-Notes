@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to Pass Your SY0-701 Security+ Exam.md",
+                "file": "1.0 General Security Concepts/1.1 Security Controls.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to Pass Your SY0-701 Security+ Exam.md",
+                "file": "1.0 General Security Concepts/1.1 Security Controls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How to Pass Your SY0-701 Security+ Exam.md",
+                "file": "1.0 General Security Concepts/1.1 Security Controls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How to Pass Your SY0-701 Security+ Exam.md"
+                "file": "1.0 General Security Concepts/1.1 Security Controls.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "776e8f15244faefb",
   "lastOpenFiles": [
+    "How to Pass Your SY0-701 Security+ Exam.md",
     "1.0 General Security Concepts/1.1 Security Controls.md",
     "Resources/sec-controls.png",
     "Pasted image 20240610101220.png",
@@ -156,7 +157,6 @@
     "1.0 General Security Concepts/1.3 Change Management Processes.md",
     "1.0 General Security Concepts/1.2 Fundamental Security Concepts.md",
     "README.md",
-    "How to Pass Your SY0-701 Security+ Exam.md",
     "introduction video notes.md",
     "Resources/domains.png",
     "5.0 Security Program Management and Oversight/5.6 Security Awareness.md",
