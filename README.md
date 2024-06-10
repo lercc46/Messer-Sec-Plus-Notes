@@ -4,5 +4,7 @@ I have folders for each test domain and markdown notes for each objective with h
 
 This note set is meant to be viewed in Obsidian or a markdown reader.
 
+All content and resources published here are original property of Professor Messer (© 2023 Messer Studios, LLC - https://professormesser.com) and I do not claim any of this content as my own. Please contact me via direct message for any fair use issues.
+
 Thanks,
 Luke
