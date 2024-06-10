@@ -7,8 +7,7 @@
 ### CompTIA Security+ certification - SY0701
 - 90 minutes, maximum of 90 questions
 - Passing score: 750 on a scale of 100-900
-- Domains:
-	- ![[domains.png]]
+- Domains: ![[domains.png]]
 - Exam questions
 	- Multiple choice, single answer (majority)
 	- Performance-based (PBQs), complete a task e.g. matching, sorting

@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "776e8f15244faefb",
+            "id": "6d8fecb706a1e829",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "1.0 General Security Concepts/1.2 Fundamental Security Concepts.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "1.0 General Security Concepts/1.2 Fundamental Security Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "1.0 General Security Concepts/1.2 Fundamental Security Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "1.0 General Security Concepts/1.2 Fundamental Security Concepts.md"
               }
             }
           }
@@ -146,22 +146,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "776e8f15244faefb",
+  "active": "6d8fecb706a1e829",
   "lastOpenFiles": [
-    "Resources/1.0/sec-controls.png",
-    "1.0 General Security Concepts/1.1 Security Controls.md",
-    "Resources/1.0",
-    "Resources/1.0/dig-sig-1.png",
+    "Resources/1.0/zero-trust-model.png",
     "1.0 General Security Concepts/1.2 Fundamental Security Concepts.md",
-    "Resources/1.0/cia-triad.png",
+    "Resources/1.0/policy-enforcement-point.png",
+    "Resources/1.0/policy-decision-point.png",
+    "The Plan.md",
+    "Resources/1.0/authenticating-example.png",
+    "Resources/1.0/gap-report-example.png",
+    "1.0 General Security Concepts/1.1 Security Controls.md",
     "How to Pass Your SY0-701 Security+ Exam.md",
+    "Resources/1.0/dig-sig-1.png",
+    "Resources/1.0/dig-sig-2.png",
+    "Resources/1.0/cia-triad.png",
+    "README.md",
+    "Resources/1.0/sec-controls.png",
+    "Resources/1.0",
     "Pasted image 20240610101220.png",
     "sec-plus-messer-notes",
     "1.0 General Security Concepts/1.4 Cryptographic Solutions.md",
     "1.0 General Security Concepts/1.3 Change Management Processes.md",
-    "README.md",
     "introduction video notes.md",
-    "Resources/domains.png",
     "5.0 Security Program Management and Oversight/5.6 Security Awareness.md",
     "5.0 Security Program Management and Oversight/5.5 Audits and Assessments.md",
     "5.0 Security Program Management and Oversight/5.4 Compliance.md",
@@ -179,7 +185,6 @@
     "4.0 Security Operations/4.1 Security Techniques.md",
     "3.0 Security Architecture/3.4 Resilience and Recovery.md",
     "3.0 Security Architecture/3.1 Architecture Models.md",
-    "3.0 Security Architecture/3.2 Infrastructure Security Principles.md",
     "Resources",
     "5.0 Security Program Management and Oversight",
     "4.0 Security Operations",
