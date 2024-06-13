@@ -1,4 +1,4 @@
-This is an organized list of my personal notes on the free SY0-701 course by Professor Messer.
+This is an organized list of my personal notes on the free [SY0-701 course by Professor Messer](https://www.youtube.com/playlist?list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv).
 
 I have folders for each test domain and markdown notes for each objective with headings following his video series, the exception being the introduction video notes: [[How to Pass Your SY0-701 Security+ Exam]].
 
