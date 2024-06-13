@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9d47587368038502",
+        "id": "530e4c4a6965461e",
         "type": "tabs",
         "children": [
           {
-            "id": "6d8fecb706a1e829",
+            "id": "edb381fca1b31786",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "1.0 General Security Concepts/1.4 Cryptographic Solutions.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "0f302eaf9154fc9b",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "1.0 General Security Concepts/1.4 Cryptographic Solutions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "1.0 General Security Concepts/1.4 Cryptographic Solutions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "1.0 General Security Concepts/1.4 Cryptographic Solutions.md"
               }
             }
           }
@@ -146,27 +146,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d8fecb706a1e829",
+  "active": "edb381fca1b31786",
   "lastOpenFiles": [
+    "Resources/1.0/signing-certificates.png",
+    "1.0 General Security Concepts/1.4 Cryptographic Solutions.md",
+    "Resources/1.0/tokenization.png",
+    "Resources/1.0/tokenization.png",
+    "Resources/1.0/public-key-crypto.png",
+    "1.0 General Security Concepts/1.3 Change Management Processes.md",
+    "The Plan.md",
+    "1.0 General Security Concepts/1.1 Security Controls.md",
+    "README.md",
     "1.0 General Security Concepts/1.2 Fundamental Security Concepts.md",
     "Resources/1.0/zero-trust-model.png",
     "Resources/1.0/policy-enforcement-point.png",
     "Resources/1.0/policy-decision-point.png",
-    "The Plan.md",
     "Resources/1.0/authenticating-example.png",
     "Resources/1.0/gap-report-example.png",
-    "1.0 General Security Concepts/1.1 Security Controls.md",
     "How to Pass Your SY0-701 Security+ Exam.md",
     "Resources/1.0/dig-sig-1.png",
-    "Resources/1.0/dig-sig-2.png",
-    "Resources/1.0/cia-triad.png",
-    "README.md",
-    "Resources/1.0/sec-controls.png",
     "Resources/1.0",
-    "Pasted image 20240610101220.png",
     "sec-plus-messer-notes",
-    "1.0 General Security Concepts/1.4 Cryptographic Solutions.md",
-    "1.0 General Security Concepts/1.3 Change Management Processes.md",
     "introduction video notes.md",
     "5.0 Security Program Management and Oversight/5.6 Security Awareness.md",
     "5.0 Security Program Management and Oversight/5.5 Audits and Assessments.md",
