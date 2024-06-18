@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.0 Threats, Vulnerabilities, and Mitigations/2.1 Threat Actors and Motivations.md",
+                "file": "2.0 Threats, Vulnerabilities, and Mitigations/2.3 Vulnerabilities.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.0 Threats, Vulnerabilities, and Mitigations/2.1 Threat Actors and Motivations.md",
+                "file": "2.0 Threats, Vulnerabilities, and Mitigations/2.3 Vulnerabilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.0 Threats, Vulnerabilities, and Mitigations/2.1 Threat Actors and Motivations.md",
+                "file": "2.0 Threats, Vulnerabilities, and Mitigations/2.3 Vulnerabilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.0 Threats, Vulnerabilities, and Mitigations/2.1 Threat Actors and Motivations.md"
+                "file": "2.0 Threats, Vulnerabilities, and Mitigations/2.3 Vulnerabilities.md"
               }
             }
           }
@@ -148,9 +148,11 @@
   },
   "active": "edb381fca1b31786",
   "lastOpenFiles": [
+    "2.0 Threats, Vulnerabilities, and Mitigations/2.2 Threat Vectors and Attack Surfaces.md",
+    "Resources/2.0/misinformation-process.png",
+    "2.0 Threats, Vulnerabilities, and Mitigations/2.1 Threat Actors and Motivations.md",
     "Resources/2.0/threat-actors.png",
     "Resources/2.0",
-    "2.0 Threats, Vulnerabilities, and Mitigations/2.1 Threat Actors and Motivations.md",
     "The Plan.md",
     "README.md",
     "1.0 General Security Concepts/1.4 Cryptographic Solutions.md",
@@ -165,7 +167,6 @@
     "Resources/1.0/policy-enforcement-point.png",
     "Resources/1.0/policy-decision-point.png",
     "Resources/1.0/authenticating-example.png",
-    "Resources/1.0/gap-report-example.png",
     "How to Pass Your SY0-701 Security+ Exam.md",
     "Resources/1.0",
     "sec-plus-messer-notes",
@@ -185,7 +186,6 @@
     "4.0 Security Operations/4.3 Vulnerability Management.md",
     "4.0 Security Operations/4.2 Asset Management.md",
     "4.0 Security Operations/4.1 Security Techniques.md",
-    "3.0 Security Architecture/3.4 Resilience and Recovery.md",
     "Resources",
     "5.0 Security Program Management and Oversight",
     "4.0 Security Operations",
