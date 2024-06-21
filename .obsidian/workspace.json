@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.0 Threats, Vulnerabilities, and Mitigations/2.3 Vulnerabilities.md",
+                "file": "2.0 Threats, Vulnerabilities, and Mitigations/2.4 Indicators of Malicious Activity.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.0 Threats, Vulnerabilities, and Mitigations/2.3 Vulnerabilities.md",
+                "file": "2.0 Threats, Vulnerabilities, and Mitigations/2.4 Indicators of Malicious Activity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.0 Threats, Vulnerabilities, and Mitigations/2.3 Vulnerabilities.md",
+                "file": "2.0 Threats, Vulnerabilities, and Mitigations/2.4 Indicators of Malicious Activity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.0 Threats, Vulnerabilities, and Mitigations/2.3 Vulnerabilities.md"
+                "file": "2.0 Threats, Vulnerabilities, and Mitigations/2.4 Indicators of Malicious Activity.md"
               }
             }
           }
@@ -148,24 +148,25 @@
   },
   "active": "4700b51513878b27",
   "lastOpenFiles": [
+    "Resources/2.0/dns-ddos.png",
+    "Resources/2.0/dns-amplification.png",
+    "2.0 Threats, Vulnerabilities, and Mitigations/2.4 Indicators of Malicious Activity.md",
+    "Resources/2.0/wannacry.png",
+    "2.0 Threats, Vulnerabilities, and Mitigations/2.3 Vulnerabilities.md",
     "Resources/2.0/xss.png",
     "Resources/2.0/sql-injection.png",
     "Resources/2.0/race-cond-example.png",
     "Resources/2.0/buff-overflow-2.png",
     "Resources/2.0/buff-overflow-1.png",
     "Pasted image 20240618111317.png",
-    "2.0 Threats, Vulnerabilities, and Mitigations/2.3 Vulnerabilities.md",
     "Resources/2.0/dll-injection.png",
     "2.0 Threats, Vulnerabilities, and Mitigations/2.2 Threat Vectors and Attack Surfaces.md",
     "Resources/2.0/misinformation-process.png",
     "2.0 Threats, Vulnerabilities, and Mitigations/2.1 Threat Actors and Motivations.md",
-    "Resources/2.0/threat-actors.png",
     "Resources/2.0",
     "The Plan.md",
     "README.md",
     "1.0 General Security Concepts/1.4 Cryptographic Solutions.md",
-    "Resources/1.0/signing-certificates.png",
-    "Resources/1.0/tokenization.png",
     "1.0 General Security Concepts/1.3 Change Management Processes.md",
     "1.0 General Security Concepts/1.1 Security Controls.md",
     "1.0 General Security Concepts/1.2 Fundamental Security Concepts.md",
@@ -186,7 +187,6 @@
     "4.0 Security Operations/4.5 Enterprise Security.md",
     "4.0 Security Operations/4.4 Monitoring.md",
     "4.0 Security Operations/4.3 Vulnerability Management.md",
-    "4.0 Security Operations/4.2 Asset Management.md",
     "Resources",
     "5.0 Security Program Management and Oversight",
     "4.0 Security Operations",
