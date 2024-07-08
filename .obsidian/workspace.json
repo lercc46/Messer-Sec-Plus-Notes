@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.0 Threats, Vulnerabilities, and Mitigations/2.5 Mitigation Techniques.md",
+                "file": "3.0 Security Architecture/3.1 Architecture Models.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.0 Threats, Vulnerabilities, and Mitigations/2.5 Mitigation Techniques.md",
+                "file": "3.0 Security Architecture/3.1 Architecture Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.0 Threats, Vulnerabilities, and Mitigations/2.5 Mitigation Techniques.md",
+                "file": "3.0 Security Architecture/3.1 Architecture Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.0 Threats, Vulnerabilities, and Mitigations/2.5 Mitigation Techniques.md"
+                "file": "3.0 Security Architecture/3.1 Architecture Models.md"
               }
             }
           }
@@ -148,10 +148,13 @@
   },
   "active": "bb1d5ea3517d0525",
   "lastOpenFiles": [
+    "Resources/domains.png",
+    "3.0 Security Architecture/3.1 Architecture Models.md",
+    "Resources/3.0",
+    "2.0 Threats, Vulnerabilities, and Mitigations/2.5 Mitigation Techniques.md",
     "2.0 Threats, Vulnerabilities, and Mitigations/2.4 Indicators of Malicious Activity.md",
     "Resources/2.0/password-file.png",
     "The Plan.md",
-    "2.0 Threats, Vulnerabilities, and Mitigations/2.5 Mitigation Techniques.md",
     "Resources/2.0/arp-poisoning.png",
     "README.md",
     "Resources/2.0/ssl-stripping.png",
@@ -185,7 +188,6 @@
     "4.0 Security Operations/4.7 Automation.md",
     "4.0 Security Operations/4.6 Identity and Access Management.md",
     "4.0 Security Operations/4.5 Enterprise Security.md",
-    "4.0 Security Operations/4.4 Monitoring.md",
     "Resources",
     "5.0 Security Program Management and Oversight",
     "4.0 Security Operations",
