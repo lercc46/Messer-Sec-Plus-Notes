@@ -146,10 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb1d5ea3517d0525",
+  "active": "4700b51513878b27",
   "lastOpenFiles": [
-    "Resources/domains.png",
+    "Resources/3.0/micro-serv-arch.png",
+    "Resources/3.0/ex-resp-matrix.png",
     "3.0 Security Architecture/3.1 Architecture Models.md",
+    "Resources/domains.png",
     "Resources/3.0",
     "2.0 Threats, Vulnerabilities, and Mitigations/2.5 Mitigation Techniques.md",
     "2.0 Threats, Vulnerabilities, and Mitigations/2.4 Indicators of Malicious Activity.md",
@@ -165,8 +167,6 @@
     "Resources/2.0/wannacry.png",
     "2.0 Threats, Vulnerabilities, and Mitigations/2.3 Vulnerabilities.md",
     "Resources/2.0/xss.png",
-    "Resources/2.0/sql-injection.png",
-    "Resources/2.0/race-cond-example.png",
     "2.0 Threats, Vulnerabilities, and Mitigations/2.2 Threat Vectors and Attack Surfaces.md",
     "2.0 Threats, Vulnerabilities, and Mitigations/2.1 Threat Actors and Motivations.md",
     "Resources/2.0",
