@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Plan.md",
+                "file": "2.0 Threats, Vulnerabilities, and Mitigations/2.5 Mitigation Techniques.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Plan.md",
+                "file": "2.0 Threats, Vulnerabilities, and Mitigations/2.5 Mitigation Techniques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Plan.md",
+                "file": "2.0 Threats, Vulnerabilities, and Mitigations/2.5 Mitigation Techniques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Plan.md"
+                "file": "2.0 Threats, Vulnerabilities, and Mitigations/2.5 Mitigation Techniques.md"
               }
             }
           }
@@ -146,11 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4700b51513878b27",
+  "active": "bb1d5ea3517d0525",
   "lastOpenFiles": [
     "2.0 Threats, Vulnerabilities, and Mitigations/2.4 Indicators of Malicious Activity.md",
-    "2.0 Threats, Vulnerabilities, and Mitigations/2.5 Mitigation Techniques.md",
+    "Resources/2.0/password-file.png",
     "The Plan.md",
+    "2.0 Threats, Vulnerabilities, and Mitigations/2.5 Mitigation Techniques.md",
     "Resources/2.0/arp-poisoning.png",
     "README.md",
     "Resources/2.0/ssl-stripping.png",
@@ -163,7 +164,6 @@
     "Resources/2.0/xss.png",
     "Resources/2.0/sql-injection.png",
     "Resources/2.0/race-cond-example.png",
-    "Resources/2.0/buff-overflow-2.png",
     "2.0 Threats, Vulnerabilities, and Mitigations/2.2 Threat Vectors and Attack Surfaces.md",
     "2.0 Threats, Vulnerabilities, and Mitigations/2.1 Threat Actors and Motivations.md",
     "Resources/2.0",
