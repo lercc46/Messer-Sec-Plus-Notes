@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.0 Security Architecture/3.2 Infrastructure Security Principles.md",
+                "file": "3.0 Security Architecture/3.3 Data Protection.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.0 Security Architecture/3.2 Infrastructure Security Principles.md",
+                "file": "3.0 Security Architecture/3.3 Data Protection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.0 Security Architecture/3.2 Infrastructure Security Principles.md",
+                "file": "3.0 Security Architecture/3.3 Data Protection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.0 Security Architecture/3.2 Infrastructure Security Principles.md"
+                "file": "3.0 Security Architecture/3.3 Data Protection.md"
               }
             }
           }
@@ -148,22 +148,23 @@
   },
   "active": "bb1d5ea3517d0525",
   "lastOpenFiles": [
+    "3.0 Security Architecture/3.2 Infrastructure Security Principles.md",
+    "Resources/3.0/sase.png",
+    "Resources/3.0/ipsec-vpn.png",
+    "Resources/3.0/tun-encryption.png",
+    "Resources/3.0/vpn-tunnel.png",
+    "Resources/3.0/osi-layers.png",
+    "Pasted image 20240710152936.png",
+    "Resources/3.0/sec-zones.png",
+    "The Plan.md",
     "3.0 Security Architecture/3.1 Architecture Models.md",
     "Resources/3.0/ex-resp-matrix.png",
     "Resources/3.0/micro-serv-arch.png",
     "Resources/3.0/virt-vs-cont.png",
-    "Resources/3.0/virtualization.png",
-    "Resources/3.0/sdn-phys-planes.png",
-    "Resources/domains.png",
     "Resources/3.0",
     "2.0 Threats, Vulnerabilities, and Mitigations/2.5 Mitigation Techniques.md",
     "2.0 Threats, Vulnerabilities, and Mitigations/2.4 Indicators of Malicious Activity.md",
-    "Resources/2.0/password-file.png",
-    "The Plan.md",
-    "Resources/2.0/arp-poisoning.png",
     "README.md",
-    "Resources/2.0/ssl-stripping.png",
-    "Resources/2.0/csrf.png",
     "How to Pass Your SY0-701 Security+ Exam.md",
     "2.0 Threats, Vulnerabilities, and Mitigations/2.3 Vulnerabilities.md",
     "2.0 Threats, Vulnerabilities, and Mitigations/2.2 Threat Vectors and Attack Surfaces.md",
@@ -186,7 +187,6 @@
     "4.0 Security Operations/4.8 Incident Response.md",
     "4.0 Security Operations/4.7 Automation.md",
     "4.0 Security Operations/4.6 Identity and Access Management.md",
-    "4.0 Security Operations/4.5 Enterprise Security.md",
     "Resources",
     "5.0 Security Program Management and Oversight",
     "4.0 Security Operations",
