@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.0 Security Architecture/3.1 Architecture Models.md",
+                "file": "3.0 Security Architecture/3.2 Infrastructure Security Principles.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.0 Security Architecture/3.1 Architecture Models.md",
+                "file": "3.0 Security Architecture/3.2 Infrastructure Security Principles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.0 Security Architecture/3.1 Architecture Models.md",
+                "file": "3.0 Security Architecture/3.2 Infrastructure Security Principles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.0 Security Architecture/3.1 Architecture Models.md"
+                "file": "3.0 Security Architecture/3.2 Infrastructure Security Principles.md"
               }
             }
           }
@@ -146,11 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4700b51513878b27",
+  "active": "bb1d5ea3517d0525",
   "lastOpenFiles": [
-    "Resources/3.0/micro-serv-arch.png",
-    "Resources/3.0/ex-resp-matrix.png",
     "3.0 Security Architecture/3.1 Architecture Models.md",
+    "Resources/3.0/ex-resp-matrix.png",
+    "Resources/3.0/micro-serv-arch.png",
+    "Resources/3.0/virt-vs-cont.png",
+    "Resources/3.0/virtualization.png",
+    "Resources/3.0/sdn-phys-planes.png",
     "Resources/domains.png",
     "Resources/3.0",
     "2.0 Threats, Vulnerabilities, and Mitigations/2.5 Mitigation Techniques.md",
@@ -162,11 +165,7 @@
     "Resources/2.0/ssl-stripping.png",
     "Resources/2.0/csrf.png",
     "How to Pass Your SY0-701 Security+ Exam.md",
-    "Resources/2.0/dns-ddos.png",
-    "Resources/2.0/dns-amplification.png",
-    "Resources/2.0/wannacry.png",
     "2.0 Threats, Vulnerabilities, and Mitigations/2.3 Vulnerabilities.md",
-    "Resources/2.0/xss.png",
     "2.0 Threats, Vulnerabilities, and Mitigations/2.2 Threat Vectors and Attack Surfaces.md",
     "2.0 Threats, Vulnerabilities, and Mitigations/2.1 Threat Actors and Motivations.md",
     "Resources/2.0",
