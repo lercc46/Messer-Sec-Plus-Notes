@@ -20,6 +20,7 @@ Note:
 - Week 3 (July 8 - July 12) - *videos 55-75*
 	- Complete learning domain 2.0 (2.5)
 	- Complete learning domain 3.0
+	- (One-week intermission due to moving out)
 - Week 4 (July 22 - July 26) - *videos 76-99*
 	- Learn domain 4.0 objectives 4.1-4.6
 - Week 5 (July 29 - August 2) - *videos 100-121*
