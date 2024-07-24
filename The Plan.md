@@ -2,6 +2,8 @@ I want to take CompTIA Security+ SY0-701 before the end of summer 2024 (before t
 
 *EDIT*: I fell behind after week 2. I've modified the schedule dates to reflect this. I will still be taking the test before the start of the fall semester.
 
+*EDIT 2*: I fell behind again after week 3 due to moving out of my apartment - more of an exception than a failure. Modified again to reflect.
+
 **Learning**: 5 weeks
 **Further studying and reviewing**: 1 week
 **Taking the test**: 1 week window
@@ -18,12 +20,12 @@ Note:
 - Week 3 (July 8 - July 12) - *videos 55-75*
 	- Complete learning domain 2.0 (2.5)
 	- Complete learning domain 3.0
-- Week 4 (July 15 - July 19) - *videos 76-99*
+- Week 4 (July 22 - July 26) - *videos 76-99*
 	- Learn domain 4.0 objectives 4.1-4.6
-- Week 5 (July 22 - July 26) - *videos 100-121*
+- Week 5 (July 29 - August 2) - *videos 100-121*
 	- Complete learning domain 4.0 (4.7-4.9)
 	- Complete learning domain 5.0
-- Week 6 (July 29 - August 2)
+- Week 6 (August 5 - August 9)
 	- Review materials and take Messer's practice tests
-- Week 7 (August 5 - August 9)
+- Week 7 (August 12 - August 16)
 	- Test time!

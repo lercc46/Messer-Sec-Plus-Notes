@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.0 Security Architecture/3.3 Data Protection.md",
+                "file": "The Plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.0 Security Architecture/3.3 Data Protection.md",
+                "file": "The Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.0 Security Architecture/3.3 Data Protection.md",
+                "file": "The Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.0 Security Architecture/3.3 Data Protection.md"
+                "file": "The Plan.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "bb1d5ea3517d0525",
   "lastOpenFiles": [
+    "3.0 Security Architecture/3.3 Data Protection.md",
     "3.0 Security Architecture/3.2 Infrastructure Security Principles.md",
     "Resources/3.0/sase.png",
     "Resources/3.0/ipsec-vpn.png",
