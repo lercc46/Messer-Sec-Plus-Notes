@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.0 Security Operations/4.1 Security Techniques.md",
+                "file": "4.0 Security Operations/4.3 Vulnerability Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.0 Security Operations/4.1 Security Techniques.md",
+                "file": "4.0 Security Operations/4.3 Vulnerability Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4.0 Security Operations/4.1 Security Techniques.md",
+                "file": "4.0 Security Operations/4.3 Vulnerability Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4.0 Security Operations/4.1 Security Techniques.md"
+                "file": "4.0 Security Operations/4.3 Vulnerability Management.md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "bb1d5ea3517d0525",
   "lastOpenFiles": [
+    "4.0 Security Operations/4.2 Asset Management.md",
+    "4.0 Security Operations/4.1 Security Techniques.md",
+    "Resources/4.0",
+    "Resources/4.0/aaa-auth.png",
     "3.0 Security Architecture/3.4 Resilience and Recovery.md",
     "Resources/3.0/snapshots.png",
     "Resources/3.0/fail-over.png",
@@ -161,7 +165,6 @@
     "Resources/3.0/tun-encryption.png",
     "Resources/3.0/vpn-tunnel.png",
     "Resources/3.0/osi-layers.png",
-    "Pasted image 20240710152936.png",
     "3.0 Security Architecture/3.1 Architecture Models.md",
     "Resources/3.0",
     "2.0 Threats, Vulnerabilities, and Mitigations/2.5 Mitigation Techniques.md",
@@ -186,13 +189,10 @@
     "5.0 Security Program Management and Oversight/5.2 Risk Management.md",
     "5.0 Security Program Management and Oversight/5.1 Governance.md",
     "4.0 Security Operations/4.9 Investigation.md",
-    "4.0 Security Operations/4.8 Incident Response.md",
-    "4.0 Security Operations/4.7 Automation.md",
     "Resources",
     "5.0 Security Program Management and Oversight",
     "4.0 Security Operations",
     "3.0 Security Architecture",
-    "2.0 Threats, Vulnerabilities, and Mitigations",
-    "1.0 General Security Concepts"
+    "2.0 Threats, Vulnerabilities, and Mitigations"
   ]
 }
