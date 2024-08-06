@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.0 General Security Concepts/1.1 Security Controls.md",
+                "file": "4.0 Security Operations/4.3 Vulnerability Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.0 General Security Concepts/1.1 Security Controls.md",
+                "file": "4.0 Security Operations/4.3 Vulnerability Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.0 General Security Concepts/1.1 Security Controls.md",
+                "file": "4.0 Security Operations/4.3 Vulnerability Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.0 General Security Concepts/1.1 Security Controls.md"
+                "file": "4.0 Security Operations/4.3 Vulnerability Management.md"
               }
             }
           }
@@ -148,12 +148,13 @@
   },
   "active": "bb1d5ea3517d0525",
   "lastOpenFiles": [
+    "1.0 General Security Concepts/1.1 Security Controls.md",
     "4.0 Security Operations/4.3 Vulnerability Management.md",
+    "4.0 Security Operations/4.4 Monitoring.md",
     "Resources/4.0/virt-seg.png",
     "Pasted image 20240731150754.png",
     "Pasted image 20240731150659.png",
     "Resources/4.0/phys-seg.png",
-    "1.0 General Security Concepts/1.1 Security Controls.md",
     "1.0 General Security Concepts/1.2 Fundamental Security Concepts.md",
     "How to Pass Your SY0-701 Security+ Exam.md",
     "4.0 Security Operations/4.2 Asset Management.md",
