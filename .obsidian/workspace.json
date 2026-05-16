@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.0 General Security Concepts/1.1 Security Controls.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1 Security Controls"
+              "title": "README"
             }
           }
         ]
@@ -169,14 +169,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4700b51513878b27",
+  "active": "bb1d5ea3517d0525",
   "lastOpenFiles": [
+    "The Plan.md",
+    "1.0 General Security Concepts/1.1 Security Controls.md",
     "Resources/5.0 Security Program Management and Oversight",
     "1.0 General Security Concepts/1.2 Fundamental Security Concepts.md",
     "README.md",
     "4.0 Security Operations/4.3 Vulnerability Management.md",
     "4.0 Security Operations/4.4 Monitoring.md",
-    "1.0 General Security Concepts/1.1 Security Controls.md",
     "Resources/4.0 Security Operations/virt-seg.png",
     "Pasted image 20240731150754.png",
     "Pasted image 20240731150659.png",
@@ -192,7 +193,6 @@
     "Resources/3.0 Security Architecture/server-cluster.png",
     "3.0 Security Architecture/3.3 Data Protection.md",
     "Resources/domains.png",
-    "The Plan.md",
     "3.0 Security Architecture/3.2 Infrastructure Security Principles.md",
     "Resources/3.0 Security Architecture/sase.png",
     "3.0 Security Architecture/3.1 Architecture Models.md",
@@ -215,7 +215,6 @@
     "Resources",
     "5.0 Security Program Management and Oversight",
     "4.0 Security Operations",
-    "3.0 Security Architecture",
-    "2.0 Threats, Vulnerabilities, and Mitigations"
+    "3.0 Security Architecture"
   ]
 }
