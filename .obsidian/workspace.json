@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.0 Security Operations/4.3 Vulnerability Management.md",
+                "file": "1.0 General Security Concepts/1.1 Security Controls.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "1.1 Security Controls"
             }
           }
         ]
@@ -38,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,14 +69,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 432.5
   },
   "right": {
     "id": "0f302eaf9154fc9b",
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.0 Security Operations/4.3 Vulnerability Management.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
             }
           },
           {
@@ -102,10 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4.0 Security Operations/4.3 Vulnerability Management.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -115,8 +128,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4.0 Security Operations/4.3 Vulnerability Management.md"
-              }
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
             }
           }
         ]
@@ -138,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -146,49 +169,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb1d5ea3517d0525",
+  "active": "4700b51513878b27",
   "lastOpenFiles": [
-    "1.0 General Security Concepts/1.1 Security Controls.md",
+    "Resources/5.0 Security Program Management and Oversight",
+    "1.0 General Security Concepts/1.2 Fundamental Security Concepts.md",
+    "README.md",
     "4.0 Security Operations/4.3 Vulnerability Management.md",
     "4.0 Security Operations/4.4 Monitoring.md",
-    "Resources/4.0/virt-seg.png",
+    "1.0 General Security Concepts/1.1 Security Controls.md",
+    "Resources/4.0 Security Operations/virt-seg.png",
     "Pasted image 20240731150754.png",
     "Pasted image 20240731150659.png",
-    "Resources/4.0/phys-seg.png",
-    "1.0 General Security Concepts/1.2 Fundamental Security Concepts.md",
+    "Resources/4.0 Security Operations/phys-seg.png",
     "How to Pass Your SY0-701 Security+ Exam.md",
     "4.0 Security Operations/4.2 Asset Management.md",
     "4.0 Security Operations/4.1 Security Techniques.md",
-    "Resources/4.0",
-    "Resources/4.0/aaa-auth.png",
+    "Resources/4.0 Security Operations",
+    "Resources/4.0 Security Operations/aaa-auth.png",
     "3.0 Security Architecture/3.4 Resilience and Recovery.md",
-    "Resources/3.0/snapshots.png",
-    "Resources/3.0/fail-over.png",
-    "Resources/3.0/server-cluster.png",
+    "Resources/3.0 Security Architecture/snapshots.png",
+    "Resources/3.0 Security Architecture/fail-over.png",
+    "Resources/3.0 Security Architecture/server-cluster.png",
     "3.0 Security Architecture/3.3 Data Protection.md",
     "Resources/domains.png",
     "The Plan.md",
     "3.0 Security Architecture/3.2 Infrastructure Security Principles.md",
-    "Resources/3.0/sase.png",
+    "Resources/3.0 Security Architecture/sase.png",
     "3.0 Security Architecture/3.1 Architecture Models.md",
-    "Resources/3.0",
+    "Resources/3.0 Security Architecture",
     "2.0 Threats, Vulnerabilities, and Mitigations/2.5 Mitigation Techniques.md",
     "2.0 Threats, Vulnerabilities, and Mitigations/2.4 Indicators of Malicious Activity.md",
-    "README.md",
     "2.0 Threats, Vulnerabilities, and Mitigations/2.3 Vulnerabilities.md",
     "2.0 Threats, Vulnerabilities, and Mitigations/2.2 Threat Vectors and Attack Surfaces.md",
     "2.0 Threats, Vulnerabilities, and Mitigations/2.1 Threat Actors and Motivations.md",
-    "Resources/2.0",
+    "Resources/2.0 Threats, Vulnerabilities, and Mitigations",
     "1.0 General Security Concepts/1.4 Cryptographic Solutions.md",
     "1.0 General Security Concepts/1.3 Change Management Processes.md",
-    "Resources/1.0",
+    "Resources/1.0 General Security Concepts",
     "sec-plus-messer-notes",
     "introduction video notes.md",
     "5.0 Security Program Management and Oversight/5.6 Security Awareness.md",
     "5.0 Security Program Management and Oversight/5.5 Audits and Assessments.md",
     "5.0 Security Program Management and Oversight/5.4 Compliance.md",
     "5.0 Security Program Management and Oversight/5.3 Third-Party Security Vendors.md",
-    "5.0 Security Program Management and Oversight/5.2 Risk Management.md",
     "Resources",
     "5.0 Security Program Management and Oversight",
     "4.0 Security Operations",
