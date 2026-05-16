@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "The Plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "The Plan"
             }
           }
         ]
@@ -171,18 +171,19 @@
   },
   "active": "bb1d5ea3517d0525",
   "lastOpenFiles": [
-    "The Plan.md",
+    "README.md",
+    "How to Pass Your SY0-701 Security+ Exam.md",
+    "Resources/domains.png",
     "1.0 General Security Concepts/1.1 Security Controls.md",
+    "The Plan.md",
     "Resources/5.0 Security Program Management and Oversight",
     "1.0 General Security Concepts/1.2 Fundamental Security Concepts.md",
-    "README.md",
     "4.0 Security Operations/4.3 Vulnerability Management.md",
     "4.0 Security Operations/4.4 Monitoring.md",
     "Resources/4.0 Security Operations/virt-seg.png",
     "Pasted image 20240731150754.png",
     "Pasted image 20240731150659.png",
     "Resources/4.0 Security Operations/phys-seg.png",
-    "How to Pass Your SY0-701 Security+ Exam.md",
     "4.0 Security Operations/4.2 Asset Management.md",
     "4.0 Security Operations/4.1 Security Techniques.md",
     "Resources/4.0 Security Operations",
@@ -192,7 +193,6 @@
     "Resources/3.0 Security Architecture/fail-over.png",
     "Resources/3.0 Security Architecture/server-cluster.png",
     "3.0 Security Architecture/3.3 Data Protection.md",
-    "Resources/domains.png",
     "3.0 Security Architecture/3.2 Infrastructure Security Principles.md",
     "Resources/3.0 Security Architecture/sase.png",
     "3.0 Security Architecture/3.1 Architecture Models.md",
