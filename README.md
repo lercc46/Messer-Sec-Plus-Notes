@@ -8,3 +8,5 @@ All content and resources published here are original property of Professor Mess
 
 Thanks,
 Luke
+
+Edit: As of June 3rd, 2026, I have passed Security+! My score was 811/900.
